@@ -9,5 +9,5 @@
 
 #### [Oscillator Caps and Resistors]
 
-Value = 2(CL - Cstray)    2(18pF - 4pF)
+Value = 2(CL - Cstray)    2(18pF - 4pF)  
 ESR = 30 Ω Max for 25MHz
