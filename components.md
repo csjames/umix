@@ -6,6 +6,7 @@ NXP LPC800-MAX is the dev board on MBED
 ### Ethernet Controller
 [ENC28J60](http://onecall.farnell.com/microchip/enc28j60-i-so/ethernet-controller-w-spi-28soic/dp/1564401)
 
+[Example Board Layout](https://www.digikey.com/reference-designs/en/wired-communication/interface-solutions/930)
 ### Assorted
 
 [Oscillator for Ethernet, 25MHz](http://uk.farnell.com/txc/9c-25-000maaj-t/xtal-25-000mhz-18pf-smd-hc-49s/dp/1842313)
