@@ -11,3 +11,7 @@
 
 Value = 2(CL - Cstray)    2(18pF - 4pF)  
 ESR = 30 Ω Max for 25MHz
+
+### Surface Mount 3.5mm JACKS
+
+[5 pack](http://onecall.farnell.com/multicomp/mj4435-r/socket-3-5mm-jack-smd-3pole/dp/1638670?MER=sy-me-pd-mi-alte)
